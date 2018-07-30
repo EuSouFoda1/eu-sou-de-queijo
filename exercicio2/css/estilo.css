@@ -1,0 +1,124 @@
+body{
+	background-color:#D8F6CE ;
+}
+
+/*.amarelo{
+	width: 150px;
+	height: 150px;
+	border:solid 8px;
+	border-color: black;
+	background-color: yellow;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+.verde{
+	width: 150px;
+	height: 150px;
+	border:solid 8px;
+	border-color: black;
+	background-color: green;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+.azul{
+	width: 150px;
+	height: 150px;
+	border:solid 8px;
+	border-color: black;
+	background-color: blue;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+.preto{
+	width: 150px;
+	height: 150px;
+	border:solid 8px;
+	border-color: black;
+	background-color: black;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+#div1{
+	width: 150px;
+	height: 150px;
+	border:solid 8px;
+	border-color: black;
+	background-color: yellow;
+	border-radius: 50%;
+	display: inline-block;
+	
+}
+
+#div2{
+	width: 150px;
+	height: 150px;
+	border:solid 8px;
+	border-color: black;
+	background-color: red;
+	border-radius: 50%;
+	display: inline-block;
+	
+}
+
+#div3{
+	width: 150px;
+	height: 150px;
+	border:solid 8px;
+	border-color: black;
+	background-color: blue;
+	border-radius: 50%;
+	display: inline-block;
+	
+}
+
+#div4{
+	width: 150px;
+	height: 150px;
+	border:solid 8px;
+	border-color: black;
+	background-color: green;
+	border-radius: 50%;
+	display: inline-block;
+	
+}*/
+a{
+	width: 100px;
+	height: 150px;
+	background-color: lightgreen;
+	border:solid 2px;
+	border-color: red;
+	margin-left: 150px;
+}
+a:hover{
+	background-color: yellow;
+}
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
